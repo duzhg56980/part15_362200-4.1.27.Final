@@ -1,0 +1,7 @@
+import io.netty.channel.epoll.EpollServerDomainSocketChannel;
+public class FunctionUse20081 {
+public void funcUse() {
+EpollServerDomainSocketChannel epollserverdomainsocketchannel = new EpollServerDomainSocketChannel();
+epollserverdomainsocketchannel.localAddress0();
+}
+}
